@@ -1,2 +1,2 @@
 # Accounting-Maxxing
-Mogging the accounting weird. 
+Mogging the accounting world. 
