@@ -1,4 +1,4 @@
--- Accounting Maxxing initial SaaS ERP schema.
+-- Codex initial SaaS ERP schema.
 -- This is written for PostgreSQL and mirrors the TypeScript domain model used by the prototype.
 
 create table tenants (

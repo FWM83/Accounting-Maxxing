@@ -1,6 +1,6 @@
-# Accounting-Maxxing
+# Codex
 
-Accounting Maxxing is a SaaS ERP and accounting platform purpose-built for small and medium **cannabis dispensaries** in **Colorado** and **Illinois**. It plugs into the inventory and POS tools dispensaries already use (Flowhub, Dutchie, Treez, Cova, BioTrack, METRC) and gives operators and their CPAs one shared place to handle 280E classification, monthly excise tax filings, license tracking, and audit-ready bookkeeping.
+Codex is a SaaS ERP and accounting platform purpose-built for small and medium **cannabis dispensaries** in **Colorado** and **Illinois**. It plugs into the inventory and POS tools dispensaries already use (Flowhub, Dutchie, Treez, Cova, BioTrack, METRC) and gives operators and their CPAs one shared place to handle 280E classification, monthly excise tax filings, license tracking, and audit-ready bookkeeping.
 
 ## Why cannabis, why CO and IL
 
@@ -49,6 +49,10 @@ Routes:
 - Compliance work queue covering 280E review, METRC variance, cash drop reconciliation, license renewal, and tax filings
 - Tax filing calendar for CO and IL excise + sales tax with estimated amounts and rates
 - Client/auditor portal for document requests, attachments, and conversations
+
+## Branding
+
+The Codex mark is a bold **C** with a small **X** interlocked through its gap (chain-link weave) — black on white, included as `public/codex-logo.png` and as the app favicon at `src/app/icon.png`.
 
 ## Next Product Steps
 

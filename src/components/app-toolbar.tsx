@@ -30,11 +30,15 @@ export function AppToolbar({ dataset, activeModule = "Dashboard" }: Props) {
   return (
     <header className="appShell">
       <div className="utilityBar">
-        <a className="brand" href="/">
-          <span className="brandMark">AM</span>
-          <span className="brandWordmark">
-            Accounting<em>Maxxing</em>
-          </span>
+        <a className="brand" href="/" aria-label="Codex home">
+          <img
+            className="brandMark"
+            src="/codex-logo.png"
+            alt=""
+            width={32}
+            height={32}
+          />
+          <span className="brandWordmark">Codex</span>
         </a>
         <div className="utilitySearch">
           <SearchGlyph />

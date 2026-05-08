@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Accounting Maxxing ERP",
-  description: "A NetSuite-class ERP prototype focused on accounting, reconciliation, and audit evidence."
+  title: "Codex",
+  description:
+    "Codex is a SaaS ERP and accounting platform purpose-built for cannabis dispensaries in Colorado and Illinois."
 };
 
 export default function RootLayout({
