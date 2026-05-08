@@ -80,15 +80,13 @@ button {
 }
 
 .brandMark {
-  align-items: center;
-  background: var(--primary);
+  background: white;
+  border: 1px solid var(--border);
   border-radius: 10px;
-  color: white;
-  display: inline-flex;
-  font-weight: 800;
+  display: inline-block;
   height: 32px;
-  justify-content: center;
-  letter-spacing: 0.02em;
+  object-fit: contain;
+  padding: 3px;
   width: 32px;
 }
 
